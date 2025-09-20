@@ -1,0 +1,1 @@
+// No JavaScript needed, as expand buttons are removed.
